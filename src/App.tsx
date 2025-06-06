@@ -221,13 +221,13 @@ const response: Response = {
       categoryDescription:'',
       posts3: [
         {
-          titulo:'Dark',
+          titulo:'Solo',
           descripcion:'', 
           categoria:'De Misterio ',
           src: './src/componentes/fotos/dark.jpg',
         },
         {
-          titulo:'La Niebla',
+          titulo:'Star Wars',
           descripcion:'', 
           categoria:'De Suspenso',
           src: './src/componentes/fotos/lani.jpg',
